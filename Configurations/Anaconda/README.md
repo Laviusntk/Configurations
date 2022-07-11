@@ -13,14 +13,10 @@
 </blockquote>
 
 
-<blockquote>
-
 | Configuration | Description                                 | Docs                                     |
 | ------------  | ------------------------------------------- | -------------------------------          |
 |                                 |
 | Data Science | An Anaconda Environment Containing AI/Data Science Tools/Packages | [Docs](./anaconda_ai_tools_environment.yaml) |
-
-</blockquote>
 
 
 ### Data Science Tools
