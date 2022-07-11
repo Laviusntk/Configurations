@@ -24,9 +24,10 @@
 
 
 ### Data Science Tools
-<br>
 
-```
+Run these commands to setup the configuration
+
+```bash
 conda create --name datascience
 conda activate data datascience
 conda env update --file anaconda_ai_tools_environment.yaml
