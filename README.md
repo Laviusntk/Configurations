@@ -3,7 +3,7 @@
     This folder contains my commonly used configurations.
 </p>
 
-## Required Softwares
+## Configurations
 <blockquote>
 <p>
 
@@ -14,7 +14,6 @@
 
 
 <blockquote>
-Configurations Added:
 
 | Configuration | Description                                 | Docs                                     |
 | ------------  | ------------------------------------------- | -------------------------------          |
@@ -23,22 +22,6 @@ Configurations Added:
 
 </blockquote>
 
-
-```
-# Run script.
-
-sh InstallTools.sh
-```
-
-<br>
-
-<p>
-The anaconda environment is saved in a file named: conda_environment.yaml. Import this file to have all the packages needed to run this project.
-</p>
-
-```
-conda_environment.yaml
-```
 
 ## Contributing
 <blockquote>
