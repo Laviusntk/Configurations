@@ -17,8 +17,8 @@
 
 | Configuration | Description                                 | Docs                                     |
 | ------------  | ------------------------------------------- | -------------------------------          |
-|                                 |
-| Anaconda AI Python Tools | An Anaconda Environment Containing AI/Data Science Tools/Packages | [Docs](./Configurations/Anaconda) |
+|               |
+| Anaconda | An Anaconda Environments | [Docs](./Configurations/Anaconda) |
 
 </blockquote>
 
