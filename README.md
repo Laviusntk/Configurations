@@ -18,7 +18,7 @@
 | Configuration | Description                                 | Docs                                     |
 | ------------  | ------------------------------------------- | -------------------------------          |
 |               |
-| Anaconda | Anaconda Environment Configurations | [Docs](./Configurations/Anaconda) |
+| Anaconda | Anaconda Environment Configurations | [Configuration](./Configurations/Anaconda) |
 
 </blockquote>
 
