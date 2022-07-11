@@ -1,4 +1,4 @@
-<h1 align="center">Conifgurations</h1>
+<h1 align="center">Anaconda Configurations</h1>
 <p align="center">
     This folder contains my commonly used configurations.
 </p>
@@ -18,23 +18,16 @@
 | Configuration | Description                                 | Docs                                     |
 | ------------  | ------------------------------------------- | -------------------------------          |
 |                                 |
-| Anaconda AI Python Tools | An Anaconda Environment Containing AI/Data Science Tools/Packages | [Docs](./Configurations/Anaconda) |
+| Data Science | An Anaconda Environment Containing AI/Data Science Tools/Packages | [Docs](./anaconda_ai_tools_environment.yaml) |
 
 </blockquote>
 
 
-## Contributing
-<blockquote>
-<p>
-Should you need to add an automation script please feel free to contact me at:
-Lavius.Motileng@outlook.com or fork the repo!
-<br>
-</p>
-</blockquote>
-
+### Data Science Tools
 <br>
 
-## License
-
-This project is licensed under the terms of the
-[MIT license](/LICENSE).
+```
+conda create --name datascience
+conda activate data datascience
+conda env update --file anaconda_ai_tools_environment.yaml
+```
