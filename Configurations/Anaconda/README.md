@@ -10,10 +10,10 @@
 | Configuration | Description                                 | Docs                                     |
 | ------------  | ------------------------------------------- | -------------------------------          |
 |                                 |
-| Data Science | An Anaconda Environment Containing AI/Data Science Tools/Packages | [Docs](./anaconda_ai_tools_environment.yaml) |
+| 1. Data Science | An Anaconda Environment Containing AI/Data Science Tools/Packages | [Docs](./anaconda_ai_tools_environment.yaml) |
 
 
-### Data Science Tools
+## 1. Data Science Tools
 
 Run these commands to setup the configuration
 
