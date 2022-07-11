@@ -6,9 +6,7 @@
 ## Configurations
 <blockquote>
 <p>
-💡 Moving configurations to a centralized location can provide opportunities for easier management and control of configuration data across applications and application instances.
-
- Source: [Microsoft Azure Well-Architected Framework:](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store)
+💡 Moving configurations to a centralized location can provide opportunities for easier management and control of configuration data across applications and application instances. Source: [Microsoft Azure Well-Architected Framework:](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store)
 
 </p>
 </blockquote>
