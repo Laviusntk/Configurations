@@ -30,5 +30,7 @@ or
 git clone https://github.com/Laviusntk/Configurations.git
 
 cd Configurations/Anaconda
-sh SetupCondaAIEnvironment.sh
+
+chmod 755 ./SetupCondaAIEnvironment.sh
+sh ./SetupCondaAIEnvironment.sh
 ```
