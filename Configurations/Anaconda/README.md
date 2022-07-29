@@ -19,17 +19,9 @@
 Run these commands to setup the configuration
 
 ```bash
-conda create --name datascience
-conda activate data datascience
-conda env update --file anaconda_ai_tools_environment.yaml
-```
-
-or 
-
-```bash
 git clone https://github.com/Laviusntk/Configurations.git
 
-cd Configurations/Anaconda
+cd Configurations/Configurations/Anaconda
 
 chmod 755 ./SetupCondaAIEnvironment.sh
 bash ./SetupCondaAIEnvironment.sh

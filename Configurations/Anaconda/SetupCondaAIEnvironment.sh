@@ -1,3 +1,5 @@
+#!/bin/bash
+
 conda init bash
 conda create --name datascience
 conda activate datascience
