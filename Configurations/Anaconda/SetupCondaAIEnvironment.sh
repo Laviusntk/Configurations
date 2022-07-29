@@ -1,6 +1,4 @@
-#!/bin/bash
-
-conda init bash
+conda init zsh
 conda create --name datascience
 conda activate datascience
 conda env update --file anaconda_ai_tools_environment.yaml
